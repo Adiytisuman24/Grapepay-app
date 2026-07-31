@@ -162,4 +162,4 @@ npm run dev
 
 ## 📄 License
 
-MIT © 2024 GrapePay
+MIT © 2026 GrapePay
